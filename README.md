@@ -1,4 +1,4 @@
-# Windows Software Installation List
+# Windows Software List
 
 Note: links may be outdated
 
