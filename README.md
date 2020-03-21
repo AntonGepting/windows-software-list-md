@@ -6,6 +6,7 @@ Note: links may be outdated
 | ---------| ------- | ---- | ------- | ------- | ----------- |
 | **Security** ||||
 | [ProduKey](https://www.nirsoft.net/utils/product_cd_key_viewer.html) | 1.93 | [portable (x86)](https://www.nirsoft.net/utils/produkey.zip) [portable (x64)](https://www.nirsoft.net/utils/produkey-x64.zip) | Freeware | [NirSoftTools](https://www.nirsoft.net/) | Recover Office/Windows CD-Key |
+| [BulletsPassView](https://www.nirsoft.net/utils/bullets_password_view.html) | 1.32 | [portable (x86)](https://www.nirsoft.net/utils/bulletspassview.zip) [portable (x64)](https://www.nirsoft.net/utils/bulletspassview-x64.zip) | Freeware | [NirSoftTools](https://www.nirsoft.net/) | reveals the passwords stored behind the bullets |
 | [HashCalc](https://www.slavasoft.com/hashcalc/) | 2.02 | [portable (x86)](https://www.slavasoft.com/zip/hashcalc.zip) | Freeware | [SlavaSoft](https://www.slavasoft.com/hashcalc/)| compute message digests, checksums and HMACs |
 | [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) | 13.95 | [portable](https://download.sysinternals.com/files/Autoruns.zip) | Freeware | [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/downloads/) | what programs are starting automatically |
 | [ProcessExplorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) | 16.21 | [portable](https://download.sysinternals.com/files/ProcessExplorer.zip) | Freeware | [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/downloads/) | process explorer |
@@ -72,7 +73,7 @@ Note: links may be outdated
 <!--- UltraISO, DaemonTools, Rufus, Acohol120%, PowerISO-->
 <!--- Aida-->
 
-
+<!--image usb-->
 
 
 <!-- NOTE: https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet -->
