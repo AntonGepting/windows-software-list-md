@@ -17,6 +17,7 @@ Note: links may be outdated
 | [RootkitRevealer](https://docs.microsoft.com/en-us/sysinternals/downloads/rootkit-revealer) | 1.71 | [portable](https://download.sysinternals.com/files/RootkitRevealer.zip) | Freeware | [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/downloads/) | advanced rootkit detection utility |
 | [ResEdit](http://www.resedit.net/) | 1.6.6 | [portable (x86)](http://rsdt.free.fr/ResEdit-win32.7z) [portable (x64)](http://rsdt.free.fr/ResEdit-x64.7z) | Freeware | [ResEdit](http://www.resedit.net/) | resource editor |
 | [WinHex](https://www.x-ways.net/winhex/index-d.html) | 19.9 | [installer](http://www.x-ways.net/winhex.zip) | Shareware | [X-Ways](https://www.x-ways.net/) | hex editor |
+| [PEStudio](https://www.winitor.com/get.html) | 9.02 | [portable](https://www.winitor.com/get.html) | Freeware Shareware | [Marc Ochsenmeier](https://www.winitor.com/get.html) | PE Analysis |
 | [HxD](https://mh-nexus.de/en/hxd/) | 2.4 | [installer](https://mh-nexus.de/downloads/HxDPortableSetup.zip) | Freeware | [mh-nexus](https://mh-nexus.de) | hex editor |
 | ||||
 | **Hardware** ||||
@@ -30,6 +31,7 @@ Note: links may be outdated
 | [powerMAX](https://www.cpuid.com/softwares/powermax.html) | 1.00 | [portable](https://www.cpuid.com/downloads/powermax/powermax_1.00.zip) | Freeware | [CPUID](https://www.cpuid.com/) | CPU and GPU burn-in test |
 | [Dead Pixel Buddy](http://deadpixelbuddy.com/) | 2012 | [online](http://deadpixelbuddy.com/) | Freeware | | on-line check for dead pixels |
 | [UserBenchmark](https://www.userbenchmark.com/) | | [installer](https://www.userbenchmark.com/resources/download/UserBenchMark.exe) | Freeware | | benchmark
+| [SpeedFan](http://www.almico.com/) | 4.52 | [installer](http://www.almico.com/speedfan452.exe) | Freeware | | change computer's fan speeds, read the temperatures
 | ||||
 | **Internet** ||||
 | [Firefox](https://www.mozilla.org/firefox/new/) | 74.0 | [installer](https://www.mozilla.org/firefox/download/thanks/) | Freeware | Mozilla | webbrowser |
@@ -74,8 +76,9 @@ Note: links may be outdated
 <!--- UltraISO, DaemonTools, Rufus, Acohol120%, PowerISO-->
 <!--- Aida-->
 
+<!--PIDKey, KeyCheck-->
 <!--image usb-->
-
-
+<!--memtest-->
+<!--tag scanner-->
 <!-- NOTE: https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet -->
 <!-- NOTE: https://github.com/commonality/architecture-decision-records/wiki/Octicon-cheatsheet#globe -->
