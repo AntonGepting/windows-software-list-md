@@ -49,8 +49,14 @@ Note: links may be outdated
 | [DosNavigator](https://www.ritlabs.com/en/products/dn/) | 1.51 | [installer (x64)](https://www.ritlabs.com/download/dn/dn151.zip) | Open Source | Ritlabs | file manager |
 | [Far](https://www.farmanager.com/download.php?l=en) | 3.0 | [portable (x86)](https://www.farmanager.com/files/Far30b5555.x86.20200208.7z) [portable (x64)](https://www.farmanager.com/files/Far30b5555.x64.20200208.7z) | Freeware | | file manager |
 | ||||
+| **Rescue** ||||
+| [Clonezilla](https://clonezilla.org/downloads.php) | 2.6.6-15 | [iso](https://clonezilla.org/downloads/download.php?branch=stable) | Open Source | | live linux with disk cloning tools |
+| [GParted](https://gparted.org/) | 1.1.0-1 | [iso (x64)](https://downloads.sourceforge.net/gparted/gparted-live-1.1.0-1-amd64.iso) [iso (x32)](https://downloads.sourceforge.net/gparted/gparted-live-1.1.0-1-i686.iso) | Open Source | | live linux with partitioning tool |
+| [Knoppix](https://www.knopper.net/knoppix-mirrors/index-en.html) | 8.6.1 | | Open Source | | live linux |
+| ||||
 | **Utility** ||||
 | [F.lux](http://justgetflux.com/) | | [link](https://justgetflux.com/) | Freeware | | adjust a display's color temperature |
+| [Free File Sync](https://freefilesync.org/) | 10.24 | [link](https://freefilesync.org/download.php) | Open Source | | backup and synchronization |
 | ||||
 | **Archive** ||||
 | [7-Zip](https://www.7-zip.org/) | 19.00 | [installer (x64)](https://www.7-zip.org/a/7z1900-x64.exe) | Open Source | | file archiver |
