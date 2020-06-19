@@ -71,3 +71,7 @@ Note: links may be outdated
 | [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=en) | | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/?src=search) [Chrome](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=en) | Freeware | | |
 | [uMatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf?hl=en) | 1.5.2 | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/umatrix/?src=search) [Chrome](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf?hl=en) | Freeware | | |
 | ||||
+
+<!--OllyDebug-->
+<!--TaskInfo-->
+<!--FoxitReader-->
