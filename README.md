@@ -22,7 +22,6 @@ Note: links may be outdated
 | [HxD](https://mh-nexus.de/en/hxd/) | 2.4 | [installer](https://mh-nexus.de/downloads/HxDPortableSetup.zip) | Freeware | [mh-nexus](https://mh-nexus.de) | hex editor |
 | [IDA Pro](https://www.scummvm.org/news/20180331/) | 5.0 | [installer (x86)](https://www.scummvm.org/frs/extras/IDA/idafree50.exe) | Freeware | [Hex-Rays](www.hex-rays.com) | x86 Disassmbler |
 | [OllyDebug](http://www.ollydbg.de/) | 1.10 | [portable (x86)](http://www.ollydbg.de/odbg110.zip) [portable (x64)](http://www.ollydbg.de/odbg64.html) | Shareware | [Oleh Yuschuk](http://www.ollydbg.de/) | x86-x64 Debugger |
-<!--| [Ghidra]() | 0.0 | [installer (x86)]() | Freeware | []() | Debugger |-->
 | ||||
 | **Hardware** ||||
 | [BlueScreenView](https://www.nirsoft.net/utils/blue_screen_view.html) | 1.55 | [portable (x86)](https://www.nirsoft.net/utils/bluescreenview.zip) [portable (x64)](https://www.nirsoft.net/utils/bluescreenview-x64.zip) | Freeware | [NirSoftTools](https://www.nirsoft.net/) | View crash information stored in the MiniDump files |
@@ -78,3 +77,4 @@ Note: links may be outdated
 | ||||
 
 <!--| []() | 0.0 | []() | Freeware | []() | Desc |-->
+<!--| [Ghidra]() | 0.0 | [installer (x86)]() | Freeware | []() | Debugger |-->
