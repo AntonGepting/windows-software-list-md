@@ -11,6 +11,7 @@ Note: links may be outdated
 | [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) | 13.95 | [portable](https://download.sysinternals.com/files/Autoruns.zip) | Freeware | [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/downloads/) | what programs are starting automatically |
 | [ProcessExplorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) | 16.21 | [portable](https://download.sysinternals.com/files/ProcessExplorer.zip) | Freeware | [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/downloads/) | process explorer |
 | [ProcessMonitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) | 3.50 | [portable](https://download.sysinternals.com/files/ProcessMonitor.zip) | Freeware | [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/downloads/) | process monitor |
+| [TaskInfo](http://www.iarsn.com/taskinfo.html) | 10.0.0.336 | [installer](http://www.iarsn.com/taskinfo/tskinf10_0.exe) | Free for non-commercial use | [Igor Arsenin](http://www.iarsn.com) | Task Manager + System Information |
 | [DiskMon](https://docs.microsoft.com/en-us/sysinternals/downloads/diskmon) | 2.01 | [portable](https://download.sysinternals.com/files/DiskMon.zip) | Freeware | [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/downloads/) | captures hard disk activity |
 | [PortMon](https://docs.microsoft.com/en-us/sysinternals/downloads/portmon) | 3.03 | [portable](https://download.sysinternals.com/files/PortMon.zip) | Freeware | [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/downloads/) | monitors and displays all serial and parallel port activity |
 | [TcpView](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview) | 3.05 | [portable](https://download.sysinternals.com/files/TCPView.zip) | Freeware | [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/downloads/)  | show listings of all TCP and UDP endpoints |
@@ -19,6 +20,9 @@ Note: links may be outdated
 | [WinHex](https://www.x-ways.net/winhex/index-d.html) | 19.9 | [installer](http://www.x-ways.net/winhex.zip) | Shareware | [X-Ways](https://www.x-ways.net/) | hex editor |
 | [PEStudio](https://www.winitor.com/get.html) | 9.02 | [portable](https://www.winitor.com/get.html) | Freeware Shareware | [Marc Ochsenmeier](https://www.winitor.com/get.html) | PE Analysis |
 | [HxD](https://mh-nexus.de/en/hxd/) | 2.4 | [installer](https://mh-nexus.de/downloads/HxDPortableSetup.zip) | Freeware | [mh-nexus](https://mh-nexus.de) | hex editor |
+| [IDA Pro](https://www.scummvm.org/news/20180331/) | 5.0 | [installer (x86)](https://www.scummvm.org/frs/extras/IDA/idafree50.exe) | Freeware | [Hex-Rays](www.hex-rays.com) | x86 Disassmbler |
+| [OllyDebug](http://www.ollydbg.de/) | 1.10 | [portable (x86)](http://www.ollydbg.de/odbg110.zip) [portable (x64)](http://www.ollydbg.de/odbg64.html) | Shareware | [Oleh Yuschuk](http://www.ollydbg.de/) | x86-x64 Debugger |
+<!--| [Ghidra]() | 0.0 | [installer (x86)]() | Freeware | []() | Debugger |-->
 | ||||
 | **Hardware** ||||
 | [BlueScreenView](https://www.nirsoft.net/utils/blue_screen_view.html) | 1.55 | [portable (x86)](https://www.nirsoft.net/utils/bluescreenview.zip) [portable (x64)](https://www.nirsoft.net/utils/bluescreenview-x64.zip) | Freeware | [NirSoftTools](https://www.nirsoft.net/) | View crash information stored in the MiniDump files |
@@ -65,6 +69,7 @@ Note: links may be outdated
 | **Multimedia** ||||
 | [VLC](https://www.videolan.org/vlc/index.html) | 3.0.8 | [link](https://www.videolan.org/vlc/#download) | Open Source | VideoLAN | multimedia player |
 | [Foobar2000](http://www.foobar2000.org/) | 1.5.2 | [installer](http://www.foobar2000.org/getfile/13e4e6ed646017fafd57422a4a5b263c/foobar2000_v1.5.2.exe) | Freeware | | audio player |
+| [FoxitReader](https://www.foxitsoftware.com/de/pdf-reader/) | X.X | [installer](https://www.foxitsoftware.com/de/pdf-reader/) | Freeware | [FoxitSoftware]() | PDF-Viewer |
 | ||||
 | **Browser Addons** ||||
 | [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) |  | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) | Freeware | | |
@@ -72,6 +77,4 @@ Note: links may be outdated
 | [uMatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf?hl=en) | 1.5.2 | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/umatrix/?src=search) [Chrome](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf?hl=en) | Freeware | | |
 | ||||
 
-<!--OllyDebug-->
-<!--TaskInfo-->
-<!--FoxitReader-->
+<!--| []() | 0.0 | []() | Freeware | []() | Desc |-->
