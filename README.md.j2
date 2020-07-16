@@ -1,0 +1,22 @@
+# Windows Software List
+
+Table of contents
+=================
+
+{% for cat in software %}
+* [{{ cat.category }}](#{{ cat.category_link }})
+{% endfor %}
+
+**Note**: links may be outdated
+
+{% for cat in software %}
+{{ cat.category }}
+==================
+
+| Software | Version | Link | License | Made by | Description |
+| -------- | ------- | ---- | ------- | ------- | ----------- |{% for item in cat.programs %}
+| [{{ item.name }}]({{ item.link }}) | {{ item.version }} | {% for file in item.download %} [{{ file.title }}]({{ file.link }}) {% endfor %} | {{ item.license }} | [{{ item.author }}]({{ item.author.link }}) | {{ item.desc }} | {% endfor %}
+
+[Go top](#table-of-contents)
+{% endfor %}
+
