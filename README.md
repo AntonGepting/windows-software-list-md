@@ -67,6 +67,7 @@ Hardware
 | [Dead Pixel Buddy](http://deadpixelbuddy.com/) | 2012 |  [online](http://deadpixelbuddy.com/)  | Freeware | [-]() | on-line check for dead pixels | 
 | [UserBenchmark](https://www.userbenchmark.com/) | - |  [installer](https://www.userbenchmark.com/resources/download/UserBenchMark.exe)  | Freeware | [-]() | benchmark | 
 | [SpeedFan](http://www.almico.com/) | 4.52 |  [installer](http://www.almico.com/speedfan452.exe)  | Freeware | [-]() | change computer's fan speeds, read the temperatures | 
+| [WifiInfoView](http://www.nirsoft.net/utils/wifi_information_view.html) | 2.65 |  [portable (x86)](http://www.nirsoft.net/utils/wifiinfoview.zip)  | Freeware | [NirSoftTools]() | benchmark | 
 
 [Go top](#table-of-contents)
 

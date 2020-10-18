@@ -395,6 +395,17 @@ software:
           link:     http://www.almico.com/speedfan452.exe
       license:      Freeware
 
+    - name:         WifiInfoView
+      version:      2.65
+      desc:         benchmark
+      link:         http://www.nirsoft.net/utils/wifi_information_view.html
+      author:       NirSoftTools
+      author_link:  http://www.nirsoft.net/
+      download:
+        - title:    portable (x86)
+          link:     http://www.nirsoft.net/utils/wifiinfoview.zip
+      license:      Freeware
+
   - category:       Internet
     category_link:  internet
     programs:
