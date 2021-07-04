@@ -684,6 +684,32 @@ software:
     category_link:  browser-addons
     programs:
 
+    - name:         SponsorBlock
+      version:      2.1.1
+      desc:         skip integration ad on youtube
+      link:         https://github.com/ajayyy/SponsorBlock
+      author:       Ajay Ramachandran
+      author_link:  https://github.com/ajayyy
+      download:
+        - title:    Firefox
+          link:     https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/
+        - title:    Chrome
+          link:     https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=en
+      license:      LGPL-3.0
+
+    - name:         StayFocusd
+      version:      "-"
+      desc:         block time wasting websites
+      link:         http://www.stayfocusd.com/
+      author:       Transfusion Media
+      author_link:  http://www.stayfocusd.com/
+      download:
+        - title:    Firefox
+          link:     not exists
+        - title:    Chrome
+          link:     https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en
+      license:      "-"
+
     - name:         uBlock Origin
       version:      1.28.4
       desc:         Wide-spectrum blocker
